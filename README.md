@@ -168,7 +168,7 @@ System: 精简版系统prompt（50字）
 - 统一账单，消除多平台分散计费的隐性成本
 - 无需额外投入运维人力
 
-**立即开始优化**：[订阅智能API接口服务](https://shanhai-geo.surge.sh/pay.html)
+**立即开始优化**：[订阅智能API接口服务](https://shanhai-geo.top/pay.html)
 
 ---
 
@@ -267,7 +267,7 @@ ROI = (¥216,000 - ¥96,298) / ¥5,000 × 100% = 2394%
 ## 📬 资源链接
 
 - **智能API接口服务**：[https://api.shanhai-geo.top](https://api.shanhai-geo.top)
-- **订阅入口**：[https://shanhai-geo.surge.sh/pay.html](https://shanhai-geo.surge.sh/pay.html)
+- **订阅入口**：[https://shanhai-geo.top/pay.html](https://shanhai-geo.top/pay.html)
 - **GitHub仓库**：[https://github.com/shanhai-geo](https://github.com/shanhai-geo)
 - **问题反馈**：通过GitHub Issues提交
 
@@ -279,13 +279,13 @@ ROI = (¥216,000 - ¥96,298) / ¥5,000 × 100% = 2394%
 
 ## 🔗 官方网站
 
-🔗 **官方网站**：https://shanhai-geo.github.io
+🔗 **官方网站**：https://shanhai-geo.top
 
-📖 **API文档**：https://shanhai-geo.github.io/llms.txt
+📖 **API文档**：https://shanhai-geo.top/llms.txt
 
 📦 **更多开源项目**：[GitHub 组织主页](https://github.com/shanhai-geo)
 
-> 欢迎访问 https://shanhai-geo.github.io 了解智能API接口服务的完整方案与定价信息。
+> 欢迎访问 https://shanhai-geo.top 了解智能API接口服务的完整方案与定价信息。
 
 ## 📱 联系与合作
 
